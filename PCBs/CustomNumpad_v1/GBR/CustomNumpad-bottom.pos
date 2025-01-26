@@ -1,0 +1,53 @@
+### Footprint positions - created on 2024-06-19T10:56:03-0700 ###
+### Printed by KiCad version 8.0.3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                                           PosX       PosY       Rot  Side
+C1        22p            C_0603_1608Metric                              81.7480   -97.0520   45.0000  bottom
+C2        22p            C_0603_1608Metric                              85.2000  -102.2000   45.0000  bottom
+C3        0.1u           C_0603_1608Metric                             100.4000  -106.2000  -90.0000  bottom
+C4        0.1u           C_0603_1608Metric                              90.0000   -90.0000  180.0000  bottom
+C5        0.1u           C_0603_1608Metric                              92.2000  -106.4000  -90.0000  bottom
+C6        0.1u           C_0603_1608Metric                              86.5000  -104.2500  -90.0000  bottom
+C7        4.7u           C_0603_1608Metric                              98.6000  -106.3750  -90.0000  bottom
+C8        1u             C_0603_1608Metric                              94.0000  -106.4000   90.0000  bottom
+D1        D              D_0603_1608Metric                             114.2125  -107.5000  180.0000  bottom
+D2        D              D_0603_1608Metric                             133.2125  -107.5000  180.0000  bottom
+D3        D              D_0603_1608Metric                             152.7125  -107.5000  180.0000  bottom
+D4        D              D_0603_1608Metric                             114.5000   -89.0000  180.0000  bottom
+D5        D              D_0603_1608Metric                             133.7125   -88.5000  180.0000  bottom
+D6        D              D_0603_1608Metric                             152.7125   -88.0000  180.0000  bottom
+D7        D              D_0603_1608Metric                             114.0000   -69.0000  180.0000  bottom
+D8        D              D_0603_1608Metric                             133.0000   -68.5000  180.0000  bottom
+D9        D              D_0603_1608Metric                             152.5000   -68.5000  180.0000  bottom
+D10       D              D_0603_1608Metric                             113.7125   -49.0000  180.0000  bottom
+D11       D              D_0603_1608Metric                             133.5000   -49.5000  180.0000  bottom
+D12       D              D_0603_1608Metric                             152.7125   -49.5000  180.0000  bottom
+D13       D              D_0603_1608Metric                             172.5000   -49.5000  180.0000  bottom
+D14       D              D_0603_1608Metric                             172.0000   -78.5000  180.0000  bottom
+D15       D              D_0603_1608Metric                             172.0000  -117.0000  180.0000  bottom
+D16       D              D_0603_1608Metric                             152.5000  -126.0000  180.0000  bottom
+D17       D              D_0603_1608Metric                             123.2875  -126.5000  180.0000  bottom
+D18       D              D_0603_1608Metric                             113.7875   -30.0000  180.0000  bottom
+D19       D              D_0603_1608Metric                             133.2125   -30.0000  180.0000  bottom
+D20       D              D_0603_1608Metric                             152.5000   -30.0000  180.0000  bottom
+D21       D              D_0603_1608Metric                             172.0000   -30.0000  180.0000  bottom
+D22       D              D_0603_1608Metric                              53.7875  -127.0000  180.0000  bottom
+D23       D              D_0603_1608Metric                              73.2125  -127.0000  180.0000  bottom
+D24       D              D_0603_1608Metric                              92.2125  -127.0000  180.0000  bottom
+D25       D              D_0603_1608Metric                              73.2125  -107.5000  180.0000  bottom
+D26       D              D_0603_1608Metric                              92.2500   -68.7500  180.0000  bottom
+D27       D              D_0603_1608Metric                              73.0375   -68.7500  180.0000  bottom
+D28       D              D_0603_1608Metric                              53.7125   -68.7500  180.0000  bottom
+D29       D              D_0603_1608Metric                              53.7125   -49.5000  180.0000  bottom
+D30       D              D_0603_1608Metric                              73.0375   -49.5000  180.0000  bottom
+D31       D              D_0603_1608Metric                              92.5375   -49.5000  180.0000  bottom
+D32       D              D_0603_1608Metric                              53.7875   -30.2500  180.0000  bottom
+D33       D              D_0603_1608Metric                              73.0000   -30.0000  180.0000  bottom
+D34       D              D_0603_1608Metric                              92.7125   -30.7500  180.0000  bottom
+J1        USB_B_Micro    USB_Micro-B_Amphenol_10118194_Horizontal      112.5000   -20.7500    0.0000  bottom
+R10       10k            R_0603_1608Metric                              89.4250  -107.5000  180.0000  bottom
+R11       10k            R_0603_1608Metric                             102.6000   -89.2000   90.0000  bottom
+U1        ATmega32U4-A   TQFP-44_10x10mm_P0.8mm                         94.0000   -98.0000   90.0000  bottom
+Y2        Crystal_GND24  Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm    84.4121   -98.5435  135.0000  bottom
+## End

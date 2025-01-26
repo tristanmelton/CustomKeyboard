@@ -21,3 +21,6 @@ PURCHASED:
 - nice!nano v2 x5 from AliExpress
 - JST Connector from Digikey
 - Sliding switch from Digikey
+- Kailh Low Profile Choc Switches (red) x80 from Typeractive
+
+I only have not ordered Keycaps yet. If you have any suggestions please let me know.

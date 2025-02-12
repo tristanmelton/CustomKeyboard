@@ -1456,13 +1456,23 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 67.31) (xy 198.12 59.69)
+			(xy 200.66 67.31) (xy 200.66 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "996a4d10-6585-46ea-95d5-25d8aaba6ae1")
+		(uuid "471377ca-575f-45bc-8ae6-d2eb6e463c25")
+	)
+	(wire
+		(pts
+			(xy 200.66 67.31) (xy 204.47 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b524009-0761-41ac-822f-717f6346ecf8")
 	)
 	(wire
 		(pts
@@ -1473,16 +1483,6 @@
 			(type default)
 		)
 		(uuid "af2c7a81-366d-46fb-890c-94a4a8fbc8f1")
-	)
-	(wire
-		(pts
-			(xy 204.47 67.31) (xy 198.12 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2112f42-b313-4800-b84a-8a7b7974cd34")
 	)
 	(global_label "col13"
 		(shape input)
@@ -1921,72 +1921,6 @@
 				)
 				(justify right)
 				(hide yes)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 200.66 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c5a9b37-a59e-425d-b1b7-8c18dbd5e368")
-		(property "Reference" "#PWR05"
-			(at 200.66 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 200.66 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dfeec3b6-84e9-42bb-8cfb-3d99f1b4ec47")
-		)
-		(instances
-			(project "CustomKeyboard"
-				(path "/e015e616-37c3-4f95-aa49-76389b12ce2e"
-					(reference "#PWR05")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -2536,6 +2470,72 @@
 			(project ""
 				(path "/e015e616-37c3-4f95-aa49-76389b12ce2e"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 198.12 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bad786a2-3dd8-4a58-9f75-2dad73299fb2")
+		(property "Reference" "#PWR05"
+			(at 198.12 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 198.12 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 198.12 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f1cba090-335d-41fc-bb38-35e95effd3d4")
+		)
+		(instances
+			(project "CustomKeyboard"
+				(path "/e015e616-37c3-4f95-aa49-76389b12ce2e"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)

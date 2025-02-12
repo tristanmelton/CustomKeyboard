@@ -24,3 +24,6 @@ PURCHASED:
 - Kailh Low Profile Choc Switches (red) x80 from Typeractive
 
 I only have not ordered Keycaps yet. If you have any suggestions please let me know.
+
+## 2/11/2025
+I have updated the PCB with a silly mistake that had GND and VCC swapped on the battery. The software is complete and can be found (https://github.com/tristanmelton/cheapino-zmk-config-single-nicenano). The direct uf2 is also in the Software folder.
